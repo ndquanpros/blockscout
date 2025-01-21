@@ -1,5 +1,5 @@
 [
-   {
+  {
     "title": "OGORI JSC",
     "links": [
       {
@@ -11,12 +11,37 @@
         "url": "https://explorer.ogori.one/"
       },
       {
-        "text": "Apple App",
+        "text": "Download App for IOS",
         "url": "https://ogori.one/appleios"
       },
       {
-        "text": "Android App",
+        "text": "Download App for Android",
         "url": "https://ogori.one/android"
+      }
+    ]
+  },
+  {
+    "title": "Help Center",
+    "links": [
+      {
+        "text": "Contact",
+        "url": "https://ogori.vn"
+      },
+      {
+        "text": "FAQ's",
+        "url": "https://explorer.ogori.one/"
+      },
+      {
+        "text": "Tutorial",
+        "url": "https://ogori.vn/category/tutorial/"
+      },
+      {
+        "text": "Privacy Policy",
+        "url": "https://ogori.vn/privacy-policy/"
+      },
+      {
+        "text": "Term of Services",
+        "url": "https://ogori.vn/term-of-service/"
       }
     ]
   }
