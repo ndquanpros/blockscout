@@ -9,12 +9,12 @@
     "title": "IOS APP",
     "url": "https://ogori.one/appleios",
     "group": "Other",
-    "icon": "https://raw.githubusercontent.com/ndquanpros/blockscout/refs/heads/master/apps/block_scout_web/ios-svgrepo-com.svg"
+    "icon": "https://raw.githubusercontent.com/ndquanpros/blockscout/refs/heads/master/apps/assetspublic/ios-svgrepo-com.svg"
   },
   {
     "title": "Android APP",
     "url": "https://ogori.one/android",
     "group": "Other",
-    "icon": "https://raw.githubusercontent.com/ndquanpros/blockscout/refs/heads/master/apps/block_scout_web/android-svgrepo-com.svg"
+    "icon": "https://raw.githubusercontent.com/ndquanpros/blockscout/refs/heads/master/apps/assetspublic/android-svgrepo-com.svg"
   }  
 ]
