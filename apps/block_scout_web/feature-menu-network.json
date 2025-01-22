@@ -1,0 +1,20 @@
+[
+  {
+    "title": "OGORI(ORI)",
+    "url": "https://explorer.ogori.one/",
+    "group": "Mainnets",
+    "icon": "https://s3-sgn10.fptcloud.com/assets/icon128.png"
+  },
+  {
+    "title": "IOS APP",
+    "url": "https://ogori.one/appleios",
+    "group": "APP",
+    "icon": "https://raw.githubusercontent.com/ndquanpros/blockscout/refs/heads/master/apps/block_scout_web/ios-svgrepo-com.svg"
+  },
+  {
+    "title": "Android APP",
+    "url": "https://ogori.one/android",
+    "group": "APP",
+    "icon": "https://raw.githubusercontent.com/ndquanpros/blockscout/refs/heads/master/apps/block_scout_web/android-svgrepo-com.svg"
+  }  
+]
