@@ -1,0 +1,73 @@
+[
+  {
+    "title": "OGORI JSC",
+    "links": [
+      {
+        "text": "Homepage",
+        "url": "https://ogori.vn"
+      },
+      {
+        "text": "Explorer",
+        "url": "https://explorer.ogori.one/"
+      },
+      {
+        "text": "Download App for IOS",
+        "url": "https://ogori.one/appleios"
+      },
+      {
+        "text": "Download App for Android",
+        "url": "https://ogori.one/android"
+      },
+      {
+        "text": "Login My Account",
+        "url": "https://explorer.ogori.one/auth/auth0"
+      }      
+    ]
+  },
+  {
+    "title": "Help Center",
+    "links": [
+      {
+        "text": "Contact",
+        "url": "https://ogori.vn"
+      },
+      {
+        "text": "FAQ's",
+        "url": "https://explorer.ogori.one/"
+      },
+      {
+        "text": "Tutorial",
+        "url": "https://ogori.vn/category/tutorial/"
+      },
+      {
+        "text": "Privacy Policy",
+        "url": "https://ogori.vn/privacy-policy/"
+      },
+      {
+        "text": "Term of Services",
+        "url": "https://ogori.vn/term-of-service/"
+      }
+    ]
+  },
+  {
+    "title": "Communication",
+    "links": [
+      {
+        "text": "ZALO OA",
+        "url": "https://zalo.me/2766928103335515400"
+      },
+      {
+        "text": "Facebook Fanpage",
+        "url": "https://www.facebook.com/ogori.blockchain"
+      },
+      {
+        "text": "Instagram",
+        "url": "https://www.instagram.com/ogori.blockchain/"
+      },
+      {
+        "text": "WhatsApp",
+        "url": "https://wa.me/message/SR2Z5BSXRXRKN1"
+      }
+    ]
+  }
+]
