@@ -16,11 +16,5 @@
     "url": "https://ogori.one/android",
     "group": "Other",
     "icon": "https://raw.githubusercontent.com/ndquanpros/blockscout/refs/heads/master/apps/block_scout_web/android-svgrepo-com.svg"
-  },
-{
-    "title": "",
-    "url": "",
-    "group": "Testnets",
-    "icon": ""
-  }    
+  }  
 ]
