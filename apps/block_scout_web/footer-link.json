@@ -45,4 +45,26 @@
       }
     ]
   }
+
+  {
+    "title": "Communication",
+    "links": [
+      {
+        "text": "ZALO OA",
+        "url": "https://zalo.me/2766928103335515400"
+      },
+      {
+        "text": "Facebook Fanpage",
+        "url": "https://www.facebook.com/ogori.blockchain"
+      },
+      {
+        "text": "Instagram",
+        "url": "https://www.instagram.com/ogori.blockchain/"
+      },
+      {
+        "text": "WhatsApp",
+        "url": "https://wa.me/message/SR2Z5BSXRXRKN1"
+      }
+    ]
+  }
 ]
