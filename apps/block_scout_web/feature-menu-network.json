@@ -8,13 +8,13 @@
   {
     "title": "IOS APP",
     "url": "https://ogori.one/appleios",
-    "group": "APP",
+    "group": "Other",
     "icon": "https://raw.githubusercontent.com/ndquanpros/blockscout/refs/heads/master/apps/block_scout_web/ios-svgrepo-com.svg"
   },
   {
     "title": "Android APP",
     "url": "https://ogori.one/android",
-    "group": "APP",
+    "group": "Other",
     "icon": "https://raw.githubusercontent.com/ndquanpros/blockscout/refs/heads/master/apps/block_scout_web/android-svgrepo-com.svg"
   }  
 ]
