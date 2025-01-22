@@ -17,7 +17,11 @@
       {
         "text": "Download App for Android",
         "url": "https://ogori.one/android"
-      }
+      },
+      {
+        "text": "Login My Account",
+        "url": "https://explorer.ogori.one/auth/auth0"
+      }      
     ]
   },
   {
