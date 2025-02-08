@@ -3,7 +3,7 @@
     "title": "OGORI JSC",
     "links": [
       {
-        "text": "Homepage",
+        "text": "About us",
         "url": "https://ogori.vn"
       },
       {
@@ -52,6 +52,10 @@
   {
     "title": "Partners",
     "links": [
+      {
+        "text": "Lookup Tool",
+        "url": "https://lookup.ogori.one"
+      }
       
     ]
   },  
