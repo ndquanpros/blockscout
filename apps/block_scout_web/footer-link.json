@@ -11,12 +11,20 @@
         "url": "https://explorer.ogori.one/"
       },
       {
-        "text": "Download App for IOS",
+        "text": "App iOS",
         "url": "https://ogori.one/appleios"
       },
       {
-        "text": "Download App for Android",
+        "text": "App Android",
         "url": "https://ogori.one/android"
+      },
+      {
+        "text": "QR Scanner",
+        "url": "https://scan.ogori.vn"
+      },
+      {
+        "text": "Lookup",
+        "url": "https://lookup.ogori.one"
       },
       {
         "text": "Login My Account",
