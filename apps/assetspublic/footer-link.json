@@ -3,7 +3,7 @@
     "title": "OGORI JSC",
     "links": [
       {
-        "text": "About us",
+        "text": "Homepage",
         "url": "https://ogori.vn"
       },
       {
@@ -11,11 +11,11 @@
         "url": "https://explorer.ogori.one/"
       },
       {
-        "text": "Download App for IOS",
+        "text": "App iOS",
         "url": "https://ogori.one/appleios"
       },
       {
-        "text": "Download App for Android",
+        "text": "App Android",
         "url": "https://ogori.one/android"
       },
       {
@@ -53,10 +53,13 @@
     "title": "Partners",
     "links": [
       {
-        "text": "Lookup Tool",
+        "text": "QR Scanner",
+        "url": "https://scan.ogori.vn"
+      },
+      {
+        "text": "Lookup",
         "url": "https://lookup.ogori.one"
       }
-      
     ]
   },  
   {
